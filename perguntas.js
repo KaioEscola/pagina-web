@@ -1,23 +1,23 @@
 criaCartao(
-    'asfahydjsxj',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'A maioria dos protozoarios são de vida livre(não dependem de um hospedeiro para sobreviver)?',
+    'Sim'
+)
+
+criaCartao(
+    'Historia',
+    'Oq aconteceu na crise de 1929?',
+    'Foi quando a bolsa de valores de nova york caio e diversas outras empresas faliram'
+)
+
+criaCartao(
+    'Matemetica',
+    'Oq são anagramas',
+    'são palavras ou frases formadas ao reorganizar as letras de outra palavra ou frase, utilizando todas as letras originais exatamente uma vez'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Oq é usado para classificar um pais como desenvolvido?',
+    'são utilizados critérios como o IDH, a renda per capita e o PIB'
 )
